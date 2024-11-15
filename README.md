@@ -116,7 +116,6 @@ The knowledge graph contains 96 nodes and 95 relationships, providing a comprehe
 8. POSES_RISK:
    - Links `Prediction` to `Risk`.
    - Purpose: Flags high-risk predictions for further evaluation.
-   - 
 # Graph Visualization
 
 This visualization demonstrates how models, datasets, predictions, feedback, drift, and metrics are interconnected within the AI system.
